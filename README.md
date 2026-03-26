@@ -33,7 +33,7 @@ ORDER BY customer_region, regional_revenue DESC;
 
 
 # What are our top-tier single orders based on profitability?
-**Business goal;** Isolate the top single orders based on profitability using window functions to understand high-value customer purchasing behavior.
+**Business goal:** Isolate the top single orders based on profitability using window functions to understand high-value customer purchasing behavior.
 
 **SQL query:**
 ```sql
